@@ -1,0 +1,48 @@
+#navlogo{
+    height: 45px;
+    width: 40px;
+    margin-top: -12px;
+}
+.gestion{
+	margin-top: 51px;
+	height: 58px;
+	color: #ffffff;
+	background-color: #2895F1;
+}
+.uno{
+	right: 15px;
+}
+.una{
+	left: 15px;
+}
+.sombra{
+	height: 3px;
+	background-color: #908F8F;
+}
+.arti{
+	margin-top: 20px;
+	background-color: #E0E0E0;
+	border-radius: 10px;
+}
+h3{
+	color: #ffffff;
+}
+footer{
+	background-color: #2895F1;
+	margin-top: 40px;
+}
+.blanco{
+	color: #ffffff;
+}
+.titulo{
+	color: #ffffff;
+}
+.title{
+	color: #2891f1;
+}
+a{
+    color: #2891f1 !important;
+}
+.des{
+	height: 128px !important;
+}

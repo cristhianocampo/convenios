@@ -1,0 +1,25 @@
+.gestion{
+    height: 58px;
+    color: #ffffff;
+    background-color: #2895F1;
+}
+.sombra{
+    background-color: #908F8F;
+    height: 3px;
+}
+footer{
+	margin-top: 417px;
+    background-color: #2895F1;
+}
+.blanco{
+    color: #ffffff;
+}
+#logo{
+    height: 135px;
+    width: 110px;
+    margin-left: 200px;
+}
+.titul{
+	margin-top: 35px;
+	text-align: center;
+}

@@ -1,0 +1,95 @@
+#navlogo{
+    height: 45px;
+    width: 40px;
+    margin-top: -12px;
+}
+header, .navbar{
+    background-color: white !important;
+    border: 0px !important;
+}
+.navbar a{
+    color: #2895F1 !important;
+    font-size: 1.2em;
+}
+.navbar a:hover{
+    background-color: lightgray !important;
+    opacity: 0.7;
+}
+.active1{
+    border-bottom: 5px solid #2895F1;
+}
+.sistema{
+    margin-top: -5px;
+    height: 78px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #2895F1;
+}
+.sombra{
+    background-color: #908F8F;
+    height: 3px;
+}
+.imgcar{
+    height: 538px !important;
+    width: 100%;
+}
+#carousel-example-generic{
+    height: 538px;
+    width: 100%;
+    position: center;
+}
+.imagen1{
+    margin-top: -20px;
+    height: 350px;
+}
+.titulo{
+    color: #2895f1;
+}
+.texto{
+    font-size: 25px;
+}
+.contenido{
+    margin-top: 70px;
+}
+.contenido1{
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+footer{
+    background-color: #2895F1;
+}
+.blanco{
+    color: #ffffff;
+}
+@media (max-width: 600px) {
+  .elementotitulo {
+    font-size: 1.5em;
+  }
+  .elementotexto{
+    font-size: 1.2em;
+  }
+  .margenmovil{
+    margin-top: -30px;
+  }
+  .margenmovil1{
+    margin-top: -5px !important;
+    margin-bottom: 10px;
+  }  
+  #carousel-example-generic{
+    height: 250px;
+    width: 100%;
+    position: center;
+  }
+  .imgcar{
+    height: 250px !important;
+    width: 100%;
+}
+
+}
+.icon-bar {
+  color: #2895F1 !important;
+  background-color: #2895F1 !important;
+}
+.dropdown, .dropdown-toggle, .dropdown-menu{
+    background-color: #fff !important;
+}

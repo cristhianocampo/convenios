@@ -1,0 +1,49 @@
+#navlogo{
+    height: 45px;
+    width: 40px;
+    margin-top: -12px;
+}
+.log{
+	margin-top: -20px;
+	height: 663px;
+	background-image: url(../media/img/login.jpg);
+	background-size: 1700px;
+	background-repeat: no-repeat;
+}
+.eti{
+	font-size: 2em;
+	color: black;
+}
+form button{
+    border: 1px solid #000000;	
+}
+.color{
+	margin-top: 160px;
+	padding: 20px;
+	background-color: #ffffff;
+	opacity: 0.7;
+	border-radius: 10px;
+	padding-bottom: 10px;
+}
+.negro{
+	color: black;
+}
+.text{
+	font-size: 1.5em;
+}
+.p{
+	margin-top: 10px;
+	color: #000000;
+}
+.p a{
+	color: #2895f1;
+	text-decoration: none;
+}
+.blanco{
+    color: #2895f1;
+    margin-top: 95px;
+}
+a{
+    color: #2891f1 !important;
+    font-size: 18px;
+}

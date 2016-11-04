@@ -1,0 +1,54 @@
+.sombra{
+    background-color: #908F8F;
+    height: 3px;
+}
+footer{
+	margin-top: 417px;
+    background-color: #2895F1;
+}
+.blanco{
+    color: #ffffff;
+}
+#logo{
+    height: 135px;
+    width: 110px;
+    margin-left: 200px;
+}
+.titul{
+	margin-top: 35px;
+	text-align: center;
+}
+h5{
+    text-align: right;
+    margin-right: 340px;
+}
+.title{
+    color: #2895F1 !important;
+    text-align: center;
+}
+.des{
+    text-align: justify;
+}
+.div{
+    background-color: #908F8F;
+    height: 3px;
+    margin-top: 90px;
+    text-align: center;
+    font-size: 25px;
+}
+body{
+    background-color: #F3F2F2 !important;
+}
+.gestion{
+    height: 58px;
+    color: #ffffff;
+    background-color: #2895F1;
+}
+.off{
+    margin-top: 20px;
+    margin-bottom: 85px;
+    padding: 20px;
+    background-color: #ffffff;
+    opacity: 0.9;
+    border-radius: 10px;
+}

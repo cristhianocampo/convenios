@@ -1,0 +1,32 @@
+#navlogo{
+    height: 45px;
+    width: 40px;
+    margin-top: -12px;
+}
+a{
+    color: #2891f1 !important;
+}
+.off{
+    margin-top: 150px;
+    margin-bottom: 85px;
+    padding: 20px;
+    background-color: #ffffff;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+.contenedor{
+    margin-top: -20px;
+    background-image: url(../media/img/img3.jpg);
+    background-size: 1700px;
+    background-repeat: no-repeat;
+    height: 607px;
+}
+h2{
+	color: #2891f1;
+}
+footer{
+    background-color: #2895F1;
+}
+.blanco{
+    color: #ffffff;
+}

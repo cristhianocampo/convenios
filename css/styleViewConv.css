@@ -1,0 +1,47 @@
+#navlogo{
+    height: 45px;
+    width: 40px;
+    margin-top: -12px;
+}
+a{
+    color: #2891f1 !important;
+}
+.gestion{
+    margin-top: 51px;
+    height: 58px;
+    color: #ffffff;
+    background-color: #2895F1;
+}
+.sombra{
+    background-color: #908F8F;
+    height: 3px;
+}
+.off{
+    margin-top: 20px;
+    margin-bottom: 85px;
+    padding: 20px;
+    background-color: #ffffff;
+    opacity: 0.9;
+    border-radius: 10px;
+}
+body{
+    background-color: #F3F2F2 !important;
+}
+h5{
+    text-align: right;
+    margin-right: 340px;
+}
+.title{
+    color: #2895F1 !important;
+    text-align: center;
+}
+.des{
+    text-align: justify;
+}
+.div{
+    background-color: #908F8F;
+    height: 3px;
+    margin-top: 90px;
+    text-align: center;
+    font-size: 25px;
+}
